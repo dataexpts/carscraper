@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> fdeb54ffa2c5b9ffc9256581f7277ade52896acd
 dashboard/__pycache__/data_processor.cpython-311.pyc
 dashboard/__pycache__/tabular_rag.cpython-311.pyc
 dashboard/__pycache__/TabularRag.cpython-311.pyc
 dashboard/__pycache__/utils.cpython-311.pyc
+<<<<<<< HEAD
+=======
+dashboard/.DS_Store
+.DS_Store
+>>>>>>> fdeb54ffa2c5b9ffc9256581f7277ade52896acd
