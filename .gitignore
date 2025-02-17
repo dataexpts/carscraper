@@ -1,0 +1,5 @@
+.DS_Store
+dashboard/__pycache__/data_processor.cpython-311.pyc
+dashboard/__pycache__/tabular_rag.cpython-311.pyc
+dashboard/__pycache__/TabularRag.cpython-311.pyc
+dashboard/__pycache__/utils.cpython-311.pyc
